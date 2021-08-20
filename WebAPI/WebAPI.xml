@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI.Controllers.DialogController.GetDialog(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Возвращает GUID диалога, на основе введенных GUID пользователей. Если такого диалога нет - возвращает пустой GUID. Введите GUID пользователя в "кавычках" через запятую.
+            </summary>
+        </member>
+    </members>
+</doc>
